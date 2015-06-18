@@ -411,6 +411,7 @@
 				333F96AA1B2F42AC00DEF32E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		333F96AB1B2F42AC00DEF32E /* Build configuration list for PBXNativeTarget "test-form-appTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				333F96AD1B2F42AC00DEF32E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
